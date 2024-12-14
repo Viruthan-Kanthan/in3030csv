@@ -1,21 +1,21 @@
 occupationCategory,averageValue,classification
-Does not apply,18332.163142947302,Urban
-Higher managerial, administrative and professional occupations,1902.2092142631745,Urban
-Lower managerial, administrative and professional occupations,3460.1558851372674,Urban
-Intermediate occupations,2151.2508677816345,Urban
-Small employers and own account workers,1450.7219943199748,Urban
-Lower supervisory and technical occupations,1431.2123698327548,Urban
-Semi-routine occupations,1465.7270432313032,Urban
-Routine occupations,1235.4534553486903,Urban
-Never worked and long-term unemployed,1113.356894919533,Urban
-Full-time students,1776.2903124013885,Urban
-Does not apply,3622.9901735658577,Rural
-Higher managerial, administrative and professional occupations,407.085872690788,Rural
-Lower managerial, administrative and professional occupations,616.2554045387782,Rural
-Intermediate occupations,409.28794555121124,Rural
-Small employers and own account workers,293.681313225346,Rural
-Lower supervisory and technical occupations,339.56260990090817,Rural
-Semi-routine occupations,299.4804609114793,Rural
-Routine occupations,235.4845569829744,Rural
-Never worked and long-term unemployed,221.3167835495149,Rural
-Full-time students,322.38769937317693,Rural
+-8,18332.163142947302,Urban
+1,1902.2092142631745,Urban
+2,3460.1558851372674,Urban
+3,2151.2508677816345,Urban
+4,1450.7219943199748,Urban
+5,1431.2123698327548,Urban
+6,1465.7270432313032,Urban
+7,1235.4534553486903,Urban
+8,1113.356894919533,Urban
+9,1776.2903124013885,Urban
+-8,3622.9901735658577,Rural
+1,407.085872690788,Rural
+2,616.2554045387782,Rural
+3,409.28794555121124,Rural
+4,293.681313225346,Rural
+5,339.56260990090817,Rural
+6,299.4804609114793,Rural
+7,235.4845569829744,Rural
+8,221.3167835495149,Rural
+9,322.38769937317693,Rural
