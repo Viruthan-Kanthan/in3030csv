@@ -1,21 +1,21 @@
 occupationCategory,averageValue,classification
--8,18332.163142947302,Urban
-1,1902.2092142631745,Urban
-2,3460.1558851372674,Urban
-3,2151.2508677816345,Urban
-4,1450.7219943199748,Urban
-5,1431.2123698327548,Urban
-6,1465.7270432313032,Urban
-7,1235.4534553486903,Urban
-8,1113.356894919533,Urban
-9,1776.2903124013885,Urban
--8,3622.9901735658577,Rural
-1,407.085872690788,Rural
-2,616.2554045387782,Rural
-3,409.28794555121124,Rural
-4,293.681313225346,Rural
-5,339.56260990090817,Rural
-6,299.4804609114793,Rural
-7,235.4845569829744,Rural
-8,221.3167835495149,Rural
-9,322.38769937317693,Rural
+"Does not apply",18332.163142947302,Urban
+"Managers, directors and senior officials",1902.2092142631745,Urban
+"Professional occupations",3460.1558851372674,Urban
+"Associate professional and technical occupations",2151.2508677816345,Urban
+"Administrative and secretarial occupations",1450.7219943199748,Urban
+"Skilled trades occupations",1431.2123698327548,Urban
+"Caring, leisure and other service occupations",1465.7270432313032,Urban
+"Sales and customer service occupations",1235.4534553486903,Urban
+"Process, plant and machine operatives",1113.356894919533,Urban
+"Elementary occupations",1776.2903124013885,Urban
+"Does not apply",3622.9901735658577,Rural
+"Managers, directors and senior officials",407.085872690788,Rural
+"Professional occupations",616.2554045387782,Rural
+"Associate professional and technical occupations",409.28794555121124,Rural
+"Administrative and secretarial occupations",293.681313225346,Rural
+"Skilled trades occupations",339.56260990090817,Rural
+"Caring, leisure and other service occupations",299.4804609114793,Rural
+"Sales and customer service occupations",235.4845569829744,Rural
+"Process, plant and machine operatives",221.3167835495149,Rural
+"Elementary occupations",322.38769937317693,Rural
