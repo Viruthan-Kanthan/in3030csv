@@ -1,0 +1,1112 @@
+region,age,ageCount,classification
+East Midlands,0,46880,Rural
+East Midlands,1,49579,Rural
+East Midlands,2,50664,Rural
+East Midlands,3,52007,Rural
+East Midlands,4,54068,Rural
+East Midlands,5,55342,Rural
+East Midlands,6,55107,Rural
+East Midlands,7,55487,Rural
+East Midlands,8,58037,Rural
+East Midlands,9,59345,Rural
+East Midlands,10,58951,Rural
+East Midlands,11,58145,Rural
+East Midlands,12,58402,Rural
+East Midlands,13,58621,Rural
+East Midlands,14,56221,Rural
+East Midlands,15,55153,Rural
+East Midlands,16,54819,Rural
+East Midlands,17,53961,Rural
+East Midlands,18,57736,Rural
+East Midlands,19,65590,Rural
+East Midlands,20,65625,Rural
+East Midlands,21,64210,Rural
+East Midlands,22,60864,Rural
+East Midlands,23,58021,Rural
+East Midlands,24,57698,Rural
+East Midlands,25,57204,Rural
+East Midlands,26,59242,Rural
+East Midlands,27,60035,Rural
+East Midlands,28,61447,Rural
+East Midlands,29,63238,Rural
+East Midlands,30,64837,Rural
+East Midlands,31,63842,Rural
+East Midlands,32,63361,Rural
+East Midlands,33,64614,Rural
+East Midlands,34,62480,Rural
+East Midlands,35,62751,Rural
+East Midlands,36,62406,Rural
+East Midlands,37,61122,Rural
+East Midlands,38,61246,Rural
+East Midlands,39,60508,Rural
+East Midlands,40,63024,Rural
+East Midlands,41,61356,Rural
+East Midlands,42,58246,Rural
+East Midlands,43,54507,Rural
+East Midlands,44,55130,Rural
+East Midlands,45,56835,Rural
+East Midlands,46,59029,Rural
+East Midlands,47,60387,Rural
+East Midlands,48,64307,Rural
+East Midlands,49,67812,Rural
+East Midlands,50,69493,Rural
+East Midlands,51,67725,Rural
+East Midlands,52,70164,Rural
+East Midlands,53,69421,Rural
+East Midlands,54,69756,Rural
+East Midlands,55,69757,Rural
+East Midlands,56,69905,Rural
+East Midlands,57,68119,Rural
+East Midlands,58,67270,Rural
+East Midlands,59,64980,Rural
+East Midlands,60,63092,Rural
+East Midlands,61,59802,Rural
+East Midlands,62,58575,Rural
+East Midlands,63,56649,Rural
+East Midlands,64,54072,Rural
+East Midlands,65,51879,Rural
+East Midlands,66,50800,Rural
+East Midlands,67,51645,Rural
+East Midlands,68,50014,Rural
+East Midlands,69,49480,Rural
+East Midlands,70,49317,Rural
+East Midlands,71,50883,Rural
+East Midlands,72,51002,Rural
+East Midlands,73,55495,Rural
+East Midlands,74,54170,Rural
+East Midlands,75,41226,Rural
+East Midlands,76,43684,Rural
+East Midlands,77,39867,Rural
+East Midlands,78,35944,Rural
+East Midlands,79,30094,Rural
+East Midlands,80,27768,Rural
+East Midlands,81,27580,Rural
+East Midlands,82,26408,Rural
+East Midlands,83,24144,Rural
+East Midlands,84,21560,Rural
+East Midlands,85,19374,Rural
+East Midlands,86,17115,Rural
+East Midlands,87,15051,Rural
+East Midlands,88,13162,Rural
+East Midlands,89,11459,Rural
+East Midlands,90,9838,Rural
+East Midlands,91,8011,Rural
+East Midlands,92,6460,Rural
+East Midlands,93,5008,Rural
+East Midlands,94,3934,Rural
+East Midlands,95,2897,Rural
+East Midlands,96,2157,Rural
+East Midlands,97,1510,Rural
+East Midlands,98,1018,Rural
+East Midlands,99,769,Rural
+East Midlands,100,1054,Rural
+East of England,0,64810,Rural
+East of England,1,68572,Rural
+East of England,2,70562,Rural
+East of England,3,71651,Rural
+East of England,4,73548,Rural
+East of England,5,75470,Rural
+East of England,6,74124,Rural
+East of England,7,74869,Rural
+East of England,8,77900,Rural
+East of England,9,78255,Rural
+East of England,10,78717,Rural
+East of England,11,77916,Rural
+East of England,12,77468,Rural
+East of England,13,76782,Rural
+East of England,14,74194,Rural
+East of England,15,71952,Rural
+East of England,16,71806,Rural
+East of England,17,71840,Rural
+East of England,18,65786,Rural
+East of England,19,61650,Rural
+East of England,20,61221,Rural
+East of England,21,64790,Rural
+East of England,22,70139,Rural
+East of England,23,72675,Rural
+East of England,24,73548,Rural
+East of England,25,73732,Rural
+East of England,26,75455,Rural
+East of England,27,77892,Rural
+East of England,28,79293,Rural
+East of England,29,81568,Rural
+East of England,30,84149,Rural
+East of England,31,84020,Rural
+East of England,32,85181,Rural
+East of England,33,86545,Rural
+East of England,34,84516,Rural
+East of England,35,84681,Rural
+East of England,36,83729,Rural
+East of England,37,82974,Rural
+East of England,38,82266,Rural
+East of England,39,84246,Rural
+East of England,40,86508,Rural
+East of England,41,84906,Rural
+East of England,42,81095,Rural
+East of England,43,76200,Rural
+East of England,44,77134,Rural
+East of England,45,77516,Rural
+East of England,46,80083,Rural
+East of England,47,81708,Rural
+East of England,48,84224,Rural
+East of England,49,87280,Rural
+East of England,50,88909,Rural
+East of England,51,86457,Rural
+East of England,52,89152,Rural
+East of England,53,88672,Rural
+East of England,54,89642,Rural
+East of England,55,89669,Rural
+East of England,56,88890,Rural
+East of England,57,87072,Rural
+East of England,58,84635,Rural
+East of England,59,82231,Rural
+East of England,60,79515,Rural
+East of England,61,75153,Rural
+East of England,62,74223,Rural
+East of England,63,71892,Rural
+East of England,64,68693,Rural
+East of England,65,66160,Rural
+East of England,66,64660,Rural
+East of England,67,64302,Rural
+East of England,68,62730,Rural
+East of England,69,61370,Rural
+East of England,70,61957,Rural
+East of England,71,63559,Rural
+East of England,72,65143,Rural
+East of England,73,72075,Rural
+East of England,74,73250,Rural
+East of England,75,53602,Rural
+East of England,76,56190,Rural
+East of England,77,50540,Rural
+East of England,78,47121,Rural
+East of England,79,39109,Rural
+East of England,80,36041,Rural
+East of England,81,36838,Rural
+East of England,82,35280,Rural
+East of England,83,32947,Rural
+East of England,84,30157,Rural
+East of England,85,26948,Rural
+East of England,86,24088,Rural
+East of England,87,21026,Rural
+East of England,88,18738,Rural
+East of England,89,16580,Rural
+East of England,90,14468,Rural
+East of England,91,11695,Rural
+East of England,92,9485,Rural
+East of England,93,7425,Rural
+East of England,94,5686,Rural
+East of England,95,4324,Rural
+East of England,96,3107,Rural
+East of England,97,2213,Rural
+East of England,98,1633,Rural
+East of England,99,1088,Rural
+East of England,100,1589,Rural
+London,0,104232,Urban
+London,1,107140,Urban
+London,2,105690,Urban
+London,3,105260,Urban
+London,4,106631,Urban
+London,5,106765,Urban
+London,6,104130,Urban
+London,7,104212,Urban
+London,8,107669,Urban
+London,9,108720,Urban
+London,10,108796,Urban
+London,11,108171,Urban
+London,12,107533,Urban
+London,13,106965,Urban
+London,14,103977,Urban
+London,15,99849,Urban
+London,16,101944,Urban
+London,17,100378,Urban
+London,18,95561,Urban
+London,19,91654,Urban
+London,20,94517,Urban
+London,21,102988,Urban
+London,22,116421,Urban
+London,23,131954,Urban
+London,24,143305,Urban
+London,25,150210,Urban
+London,26,154755,Urban
+London,27,158102,Urban
+London,28,160627,Urban
+London,29,162855,Urban
+London,30,165073,Urban
+London,31,164302,Urban
+London,32,163551,Urban
+London,33,160923,Urban
+London,34,154493,Urban
+London,35,153753,Urban
+London,36,149864,Urban
+London,37,145665,Urban
+London,38,143954,Urban
+London,39,142471,Urban
+London,40,143338,Urban
+London,41,140166,Urban
+London,42,133275,Urban
+London,43,126325,Urban
+London,44,124180,Urban
+London,45,121883,Urban
+London,46,121536,Urban
+London,47,117538,Urban
+London,48,117321,Urban
+London,49,115692,Urban
+London,50,118353,Urban
+London,51,115639,Urban
+London,52,115755,Urban
+London,53,113410,Urban
+London,54,110636,Urban
+London,55,109739,Urban
+London,56,106933,Urban
+London,57,103125,Urban
+London,58,98730,Urban
+London,59,93088,Urban
+London,60,90757,Urban
+London,61,85123,Urban
+London,62,80571,Urban
+London,63,75837,Urban
+London,64,72297,Urban
+London,65,67890,Urban
+London,66,64024,Urban
+London,67,60627,Urban
+London,68,58194,Urban
+London,69,55608,Urban
+London,70,54804,Urban
+London,71,53584,Urban
+London,72,52820,Urban
+London,73,54433,Urban
+London,74,53494,Urban
+London,75,42142,Urban
+London,76,41568,Urban
+London,77,38406,Urban
+London,78,36308,Urban
+London,79,31241,Urban
+London,80,30100,Urban
+London,81,30759,Urban
+London,82,28972,Urban
+London,83,26474,Urban
+London,84,24359,Urban
+London,85,21961,Urban
+London,86,19536,Urban
+London,87,16974,Urban
+London,88,15227,Urban
+London,89,13108,Urban
+London,90,11469,Urban
+London,91,9672,Urban
+London,92,7616,Urban
+London,93,5878,Urban
+London,94,4520,Urban
+London,95,3502,Urban
+London,96,2656,Urban
+London,97,1936,Urban
+London,98,1314,Urban
+London,99,847,Urban
+London,100,1393,Urban
+North East,0,24771,Rural
+North East,1,25842,Rural
+North East,2,26943,Rural
+North East,3,27736,Rural
+North East,4,29010,Rural
+North East,5,29435,Rural
+North East,6,28896,Rural
+North East,7,29818,Rural
+North East,8,31000,Rural
+North East,9,31326,Rural
+North East,10,31707,Rural
+North East,11,31142,Rural
+North East,12,30665,Rural
+North East,13,30805,Rural
+North East,14,30071,Rural
+North East,15,28885,Rural
+North East,16,28940,Rural
+North East,17,28311,Rural
+North East,18,30128,Rural
+North East,19,33845,Rural
+North East,20,33427,Rural
+North East,21,33481,Rural
+North East,22,32497,Rural
+North East,23,31645,Rural
+North East,24,31876,Rural
+North East,25,31061,Rural
+North East,26,31455,Rural
+North East,27,31994,Rural
+North East,28,32571,Rural
+North East,29,33653,Rural
+North East,30,34010,Rural
+North East,31,32848,Rural
+North East,32,33233,Rural
+North East,33,34196,Rural
+North East,34,33688,Rural
+North East,35,33891,Rural
+North East,36,33100,Rural
+North East,37,32264,Rural
+North East,38,32136,Rural
+North East,39,32011,Rural
+North East,40,32839,Rural
+North East,41,32849,Rural
+North East,42,30891,Rural
+North East,43,27940,Rural
+North East,44,27647,Rural
+North East,45,29428,Rural
+North East,46,29913,Rural
+North East,47,30924,Rural
+North East,48,32964,Rural
+North East,49,35788,Rural
+North East,50,36557,Rural
+North East,51,35308,Rural
+North East,52,36514,Rural
+North East,53,36909,Rural
+North East,54,38095,Rural
+North East,55,38413,Rural
+North East,56,39071,Rural
+North East,57,38755,Rural
+North East,58,38209,Rural
+North East,59,37891,Rural
+North East,60,36322,Rural
+North East,61,35299,Rural
+North East,62,35553,Rural
+North East,63,34778,Rural
+North East,64,33287,Rural
+North East,65,31817,Rural
+North East,66,30678,Rural
+North East,67,30681,Rural
+North East,68,29630,Rural
+North East,69,28843,Rural
+North East,70,28396,Rural
+North East,71,28990,Rural
+North East,72,29203,Rural
+North East,73,31275,Rural
+North East,74,30502,Rural
+North East,75,22578,Rural
+North East,76,23444,Rural
+North East,77,20337,Rural
+North East,78,18478,Rural
+North East,79,16423,Rural
+North East,80,15897,Rural
+North East,81,15591,Rural
+North East,82,15186,Rural
+North East,83,14015,Rural
+North East,84,12686,Rural
+North East,85,11113,Rural
+North East,86,9815,Rural
+North East,87,8501,Rural
+North East,88,7497,Rural
+North East,89,6476,Rural
+North East,90,5611,Rural
+North East,91,4289,Rural
+North East,92,3386,Rural
+North East,93,2497,Rural
+North East,94,2064,Rural
+North East,95,1491,Rural
+North East,96,1097,Rural
+North East,97,703,Rural
+North East,98,499,Rural
+North East,99,384,Rural
+North East,100,485,Rural
+North West,0,76480,Rural
+North West,1,80509,Rural
+North West,2,82037,Rural
+North West,3,82536,Rural
+North West,4,86091,Rural
+North West,5,87428,Rural
+North West,6,86640,Rural
+North West,7,88010,Rural
+North West,8,91081,Rural
+North West,9,91915,Rural
+North West,10,91891,Rural
+North West,11,91360,Rural
+North West,12,90857,Rural
+North West,13,90306,Rural
+North West,14,87993,Rural
+North West,15,86628,Rural
+North West,16,86894,Rural
+North West,17,84535,Rural
+North West,18,84158,Rural
+North West,19,88738,Rural
+North West,20,88668,Rural
+North West,21,89666,Rural
+North West,22,91306,Rural
+North West,23,90673,Rural
+North West,24,93385,Rural
+North West,25,91001,Rural
+North West,26,92912,Rural
+North West,27,95553,Rural
+North West,28,96990,Rural
+North West,29,100367,Rural
+North West,30,103495,Rural
+North West,31,100717,Rural
+North West,32,100714,Rural
+North West,33,102659,Rural
+North West,34,98353,Rural
+North West,35,100151,Rural
+North West,36,99222,Rural
+North West,37,96305,Rural
+North West,38,95601,Rural
+North West,39,94338,Rural
+North West,40,95666,Rural
+North West,41,94653,Rural
+North West,42,88263,Rural
+North West,43,83082,Rural
+North West,44,83141,Rural
+North West,45,85285,Rural
+North West,46,87672,Rural
+North West,47,89695,Rural
+North West,48,94684,Rural
+North West,49,101027,Rural
+North West,50,102695,Rural
+North West,51,100786,Rural
+North West,52,103593,Rural
+North West,53,102536,Rural
+North West,54,103911,Rural
+North West,55,103450,Rural
+North West,56,105577,Rural
+North West,57,102707,Rural
+North West,58,101852,Rural
+North West,59,98921,Rural
+North West,60,95486,Rural
+North West,61,91146,Rural
+North West,62,88140,Rural
+North West,63,86587,Rural
+North West,64,82363,Rural
+North West,65,78290,Rural
+North West,66,75712,Rural
+North West,67,76577,Rural
+North West,68,73539,Rural
+North West,69,71831,Rural
+North West,70,72721,Rural
+North West,71,72957,Rural
+North West,72,74687,Rural
+North West,73,80655,Rural
+North West,74,78510,Rural
+North West,75,58109,Rural
+North West,76,60178,Rural
+North West,77,55530,Rural
+North West,78,51598,Rural
+North West,79,44407,Rural
+North West,80,41559,Rural
+North West,81,41727,Rural
+North West,82,38755,Rural
+North West,83,35931,Rural
+North West,84,32213,Rural
+North West,85,28910,Rural
+North West,86,25176,Rural
+North West,87,21431,Rural
+North West,88,19006,Rural
+North West,89,16552,Rural
+North West,90,14218,Rural
+North West,91,11363,Rural
+North West,92,8958,Rural
+North West,93,6798,Rural
+North West,94,5536,Rural
+North West,95,4010,Rural
+North West,96,2938,Rural
+North West,97,2018,Rural
+North West,98,1385,Rural
+North West,99,1032,Rural
+North West,100,1495,Rural
+South East,0,91706,Rural
+South East,1,96385,Rural
+South East,2,100143,Rural
+South East,3,101912,Rural
+South East,4,105156,Rural
+South East,5,108090,Rural
+South East,6,106790,Rural
+South East,7,108258,Rural
+South East,8,113408,Rural
+South East,9,115700,Rural
+South East,10,115756,Rural
+South East,11,114474,Rural
+South East,12,114058,Rural
+South East,13,113808,Rural
+South East,14,110897,Rural
+South East,15,106944,Rural
+South East,16,107508,Rural
+South East,17,107066,Rural
+South East,18,102339,Rural
+South East,19,100189,Rural
+South East,20,98322,Rural
+South East,21,101876,Rural
+South East,22,105643,Rural
+South East,23,105818,Rural
+South East,24,104809,Rural
+South East,25,104807,Rural
+South East,26,106819,Rural
+South East,27,108416,Rural
+South East,28,111283,Rural
+South East,29,114681,Rural
+South East,30,119181,Rural
+South East,31,119140,Rural
+South East,32,121048,Rural
+South East,33,123176,Rural
+South East,34,121019,Rural
+South East,35,121689,Rural
+South East,36,121089,Rural
+South East,37,120654,Rural
+South East,38,121589,Rural
+South East,39,122705,Rural
+South East,40,127052,Rural
+South East,41,126291,Rural
+South East,42,120404,Rural
+South East,43,115207,Rural
+South East,44,115433,Rural
+South East,45,116380,Rural
+South East,46,119957,Rural
+South East,47,121794,Rural
+South East,48,126621,Rural
+South East,49,129965,Rural
+South East,50,132075,Rural
+South East,51,128428,Rural
+South East,52,131428,Rural
+South East,53,131682,Rural
+South East,54,133488,Rural
+South East,55,132352,Rural
+South East,56,132671,Rural
+South East,57,129522,Rural
+South East,58,125644,Rural
+South East,59,120904,Rural
+South East,60,116874,Rural
+South East,61,111027,Rural
+South East,62,109395,Rural
+South East,63,104955,Rural
+South East,64,99904,Rural
+South East,65,95884,Rural
+South East,66,94199,Rural
+South East,67,92752,Rural
+South East,68,90289,Rural
+South East,69,89148,Rural
+South East,70,88715,Rural
+South East,71,91276,Rural
+South East,72,94063,Rural
+South East,73,103581,Rural
+South East,74,103915,Rural
+South East,75,77687,Rural
+South East,76,81074,Rural
+South East,77,73974,Rural
+South East,78,68017,Rural
+South East,79,56935,Rural
+South East,80,53168,Rural
+South East,81,54459,Rural
+South East,82,50970,Rural
+South East,83,47401,Rural
+South East,84,43374,Rural
+South East,85,39217,Rural
+South East,86,35254,Rural
+South East,87,30954,Rural
+South East,88,27858,Rural
+South East,89,24665,Rural
+South East,90,21564,Rural
+South East,91,17316,Rural
+South East,92,14245,Rural
+South East,93,11128,Rural
+South East,94,8968,Rural
+South East,95,6613,Rural
+South East,96,4887,Rural
+South East,97,3547,Rural
+South East,98,2587,Rural
+South East,99,1880,Rural
+South East,100,2695,Rural
+South West,0,50998,Rural
+South West,1,53275,Rural
+South West,2,55420,Rural
+South West,3,56616,Rural
+South West,4,58138,Rural
+South West,5,60589,Rural
+South West,6,60142,Rural
+South West,7,61114,Rural
+South West,8,63918,Rural
+South West,9,65310,Rural
+South West,10,65023,Rural
+South West,11,64380,Rural
+South West,12,63678,Rural
+South West,13,63998,Rural
+South West,14,62547,Rural
+South West,15,60202,Rural
+South West,16,60923,Rural
+South West,17,61602,Rural
+South West,18,63502,Rural
+South West,19,67414,Rural
+South West,20,67226,Rural
+South West,21,67351,Rural
+South West,22,67439,Rural
+South West,23,65501,Rural
+South West,24,64685,Rural
+South West,25,64153,Rural
+South West,26,65429,Rural
+South West,27,66481,Rural
+South West,28,67184,Rural
+South West,29,68924,Rural
+South West,30,71308,Rural
+South West,31,71313,Rural
+South West,32,71198,Rural
+South West,33,72154,Rural
+South West,34,69967,Rural
+South West,35,69498,Rural
+South West,36,69115,Rural
+South West,37,68679,Rural
+South West,38,67883,Rural
+South West,39,68865,Rural
+South West,40,70257,Rural
+South West,41,69185,Rural
+South West,42,65944,Rural
+South West,43,61885,Rural
+South West,44,62202,Rural
+South West,45,63828,Rural
+South West,46,66596,Rural
+South West,47,69383,Rural
+South West,48,72899,Rural
+South West,49,76561,Rural
+South West,50,77982,Rural
+South West,51,77762,Rural
+South West,52,79537,Rural
+South West,53,80061,Rural
+South West,54,81874,Rural
+South West,55,82906,Rural
+South West,56,83089,Rural
+South West,57,82121,Rural
+South West,58,80325,Rural
+South West,59,78417,Rural
+South West,60,76499,Rural
+South West,61,73296,Rural
+South West,62,72739,Rural
+South West,63,70746,Rural
+South West,64,68323,Rural
+South West,65,65281,Rural
+South West,66,64872,Rural
+South West,67,66090,Rural
+South West,68,63788,Rural
+South West,69,63744,Rural
+South West,70,63390,Rural
+South West,71,65806,Rural
+South West,72,67246,Rural
+South West,73,73423,Rural
+South West,74,73034,Rural
+South West,75,55139,Rural
+South West,76,58424,Rural
+South West,77,52600,Rural
+South West,78,49035,Rural
+South West,79,41116,Rural
+South West,80,37579,Rural
+South West,81,37892,Rural
+South West,82,35577,Rural
+South West,83,32850,Rural
+South West,84,30418,Rural
+South West,85,27011,Rural
+South West,86,24601,Rural
+South West,87,21372,Rural
+South West,88,19428,Rural
+South West,89,17052,Rural
+South West,90,15049,Rural
+South West,91,12166,Rural
+South West,92,9934,Rural
+South West,93,7847,Rural
+South West,94,6170,Rural
+South West,95,4644,Rural
+South West,96,3504,Rural
+South West,97,2517,Rural
+South West,98,1809,Rural
+South West,99,1362,Rural
+South West,100,1861,Rural
+Wales,0,28336,Rural
+Wales,0,28336,Rural
+Wales,1,29828,Rural
+Wales,1,29828,Rural
+Wales,2,31158,Rural
+Wales,2,31158,Rural
+Wales,3,32407,Rural
+Wales,3,32407,Rural
+Wales,4,33357,Rural
+Wales,4,33357,Rural
+Wales,5,34446,Rural
+Wales,5,34446,Rural
+Wales,6,34085,Rural
+Wales,6,34085,Rural
+Wales,7,34380,Rural
+Wales,7,34380,Rural
+Wales,8,36201,Rural
+Wales,8,36201,Rural
+Wales,9,36813,Rural
+Wales,9,36813,Rural
+Wales,10,37048,Rural
+Wales,10,37048,Rural
+Wales,11,36774,Rural
+Wales,11,36774,Rural
+Wales,12,36785,Rural
+Wales,12,36785,Rural
+Wales,13,36778,Rural
+Wales,13,36778,Rural
+Wales,14,35317,Rural
+Wales,14,35317,Rural
+Wales,15,34365,Rural
+Wales,15,34365,Rural
+Wales,16,35251,Rural
+Wales,16,35251,Rural
+Wales,17,34284,Rural
+Wales,17,34284,Rural
+Wales,18,34584,Rural
+Wales,18,34584,Rural
+Wales,19,37286,Rural
+Wales,19,37286,Rural
+Wales,20,36918,Rural
+Wales,20,36918,Rural
+Wales,21,37800,Rural
+Wales,21,37800,Rural
+Wales,22,37853,Rural
+Wales,22,37853,Rural
+Wales,23,37409,Rural
+Wales,23,37409,Rural
+Wales,24,37695,Rural
+Wales,24,37695,Rural
+Wales,25,36043,Rural
+Wales,25,36043,Rural
+Wales,26,36675,Rural
+Wales,26,36675,Rural
+Wales,27,37239,Rural
+Wales,27,37239,Rural
+Wales,28,37670,Rural
+Wales,28,37670,Rural
+Wales,29,38833,Rural
+Wales,29,38833,Rural
+Wales,30,40035,Rural
+Wales,30,40035,Rural
+Wales,31,38646,Rural
+Wales,31,38646,Rural
+Wales,32,39242,Rural
+Wales,32,39242,Rural
+Wales,33,39341,Rural
+Wales,33,39341,Rural
+Wales,34,38950,Rural
+Wales,34,38950,Rural
+Wales,35,37940,Rural
+Wales,35,37940,Rural
+Wales,36,37855,Rural
+Wales,36,37855,Rural
+Wales,37,36837,Rural
+Wales,37,36837,Rural
+Wales,38,36862,Rural
+Wales,38,36862,Rural
+Wales,39,36737,Rural
+Wales,39,36737,Rural
+Wales,40,37767,Rural
+Wales,40,37767,Rural
+Wales,41,37161,Rural
+Wales,41,37161,Rural
+Wales,42,34610,Rural
+Wales,42,34610,Rural
+Wales,43,32685,Rural
+Wales,43,32685,Rural
+Wales,44,33128,Rural
+Wales,44,33128,Rural
+Wales,45,33716,Rural
+Wales,45,33716,Rural
+Wales,46,35269,Rural
+Wales,46,35269,Rural
+Wales,47,36325,Rural
+Wales,47,36325,Rural
+Wales,48,38994,Rural
+Wales,48,38994,Rural
+Wales,49,41773,Rural
+Wales,49,41773,Rural
+Wales,50,42781,Rural
+Wales,50,42781,Rural
+Wales,51,42252,Rural
+Wales,51,42252,Rural
+Wales,52,43587,Rural
+Wales,52,43587,Rural
+Wales,53,42985,Rural
+Wales,53,42985,Rural
+Wales,54,44075,Rural
+Wales,54,44075,Rural
+Wales,55,44656,Rural
+Wales,55,44656,Rural
+Wales,56,45647,Rural
+Wales,56,45647,Rural
+Wales,57,45163,Rural
+Wales,57,45163,Rural
+Wales,58,44244,Rural
+Wales,58,44244,Rural
+Wales,59,42962,Rural
+Wales,59,42962,Rural
+Wales,60,42011,Rural
+Wales,60,42011,Rural
+Wales,61,40572,Rural
+Wales,61,40572,Rural
+Wales,62,39940,Rural
+Wales,62,39940,Rural
+Wales,63,39334,Rural
+Wales,63,39334,Rural
+Wales,64,37749,Rural
+Wales,64,37749,Rural
+Wales,65,35673,Rural
+Wales,65,35673,Rural
+Wales,66,35679,Rural
+Wales,66,35679,Rural
+Wales,67,36439,Rural
+Wales,67,36439,Rural
+Wales,68,35417,Rural
+Wales,68,35417,Rural
+Wales,69,34433,Rural
+Wales,69,34433,Rural
+Wales,70,34832,Rural
+Wales,70,34832,Rural
+Wales,71,35370,Rural
+Wales,71,35370,Rural
+Wales,72,35810,Rural
+Wales,72,35810,Rural
+Wales,73,38255,Rural
+Wales,73,38255,Rural
+Wales,74,37069,Rural
+Wales,74,37069,Rural
+Wales,75,28188,Rural
+Wales,75,28188,Rural
+Wales,76,29490,Rural
+Wales,76,29490,Rural
+Wales,77,26707,Rural
+Wales,77,26707,Rural
+Wales,78,25347,Rural
+Wales,78,25347,Rural
+Wales,79,21765,Rural
+Wales,79,21765,Rural
+Wales,80,20159,Rural
+Wales,80,20159,Rural
+Wales,81,19078,Rural
+Wales,81,19078,Rural
+Wales,82,17940,Rural
+Wales,82,17940,Rural
+Wales,83,16589,Rural
+Wales,83,16589,Rural
+Wales,84,15228,Rural
+Wales,84,15228,Rural
+Wales,85,13443,Rural
+Wales,85,13443,Rural
+Wales,86,12036,Rural
+Wales,86,12036,Rural
+Wales,87,10265,Rural
+Wales,87,10265,Rural
+Wales,88,9237,Rural
+Wales,88,9237,Rural
+Wales,89,7877,Rural
+Wales,89,7877,Rural
+Wales,90,6792,Rural
+Wales,90,6792,Rural
+Wales,91,5524,Rural
+Wales,91,5524,Rural
+Wales,92,4410,Rural
+Wales,92,4410,Rural
+Wales,93,3468,Rural
+Wales,93,3468,Rural
+Wales,94,2700,Rural
+Wales,94,2700,Rural
+Wales,95,2101,Rural
+Wales,95,2101,Rural
+Wales,96,1567,Rural
+Wales,96,1567,Rural
+Wales,97,1078,Rural
+Wales,97,1078,Rural
+Wales,98,741,Rural
+Wales,98,741,Rural
+Wales,99,536,Rural
+Wales,99,536,Rural
+Wales,100,800,Rural
+Wales,100,800,Rural
+West Midlands,0,63168,Rural
+West Midlands,1,65849,Rural
+West Midlands,2,67390,Rural
+West Midlands,3,68082,Rural
+West Midlands,4,70901,Rural
+West Midlands,5,71609,Rural
+West Midlands,6,71343,Rural
+West Midlands,7,72922,Rural
+West Midlands,8,76138,Rural
+West Midlands,9,76288,Rural
+West Midlands,10,76134,Rural
+West Midlands,11,74885,Rural
+West Midlands,12,75507,Rural
+West Midlands,13,75185,Rural
+West Midlands,14,72707,Rural
+West Midlands,15,71321,Rural
+West Midlands,16,72638,Rural
+West Midlands,17,71167,Rural
+West Midlands,18,70051,Rural
+West Midlands,19,72308,Rural
+West Midlands,20,71798,Rural
+West Midlands,21,72702,Rural
+West Midlands,22,73188,Rural
+West Midlands,23,72690,Rural
+West Midlands,24,73041,Rural
+West Midlands,25,72130,Rural
+West Midlands,26,72798,Rural
+West Midlands,27,74425,Rural
+West Midlands,28,75370,Rural
+West Midlands,29,78280,Rural
+West Midlands,30,80896,Rural
+West Midlands,31,79915,Rural
+West Midlands,32,79392,Rural
+West Midlands,33,80758,Rural
+West Midlands,34,78976,Rural
+West Midlands,35,78151,Rural
+West Midlands,36,77740,Rural
+West Midlands,37,76319,Rural
+West Midlands,38,75877,Rural
+West Midlands,39,75053,Rural
+West Midlands,40,77629,Rural
+West Midlands,41,76093,Rural
+West Midlands,42,71811,Rural
+West Midlands,43,67242,Rural
+West Midlands,44,67658,Rural
+West Midlands,45,68975,Rural
+West Midlands,46,71091,Rural
+West Midlands,47,72671,Rural
+West Midlands,48,76598,Rural
+West Midlands,49,80822,Rural
+West Midlands,50,82760,Rural
+West Midlands,51,81528,Rural
+West Midlands,52,83429,Rural
+West Midlands,53,82363,Rural
+West Midlands,54,82665,Rural
+West Midlands,55,81709,Rural
+West Midlands,56,81259,Rural
+West Midlands,57,78642,Rural
+West Midlands,58,77674,Rural
+West Midlands,59,76244,Rural
+West Midlands,60,73162,Rural
+West Midlands,61,68986,Rural
+West Midlands,62,67746,Rural
+West Midlands,63,66356,Rural
+West Midlands,64,63322,Rural
+West Midlands,65,60093,Rural
+West Midlands,66,59416,Rural
+West Midlands,67,60021,Rural
+West Midlands,68,57712,Rural
+West Midlands,69,56515,Rural
+West Midlands,70,56188,Rural
+West Midlands,71,57669,Rural
+West Midlands,72,58258,Rural
+West Midlands,73,61491,Rural
+West Midlands,74,60261,Rural
+West Midlands,75,47406,Rural
+West Midlands,76,50348,Rural
+West Midlands,77,47728,Rural
+West Midlands,78,43218,Rural
+West Midlands,79,36823,Rural
+West Midlands,80,34015,Rural
+West Midlands,81,33795,Rural
+West Midlands,82,32354,Rural
+West Midlands,83,29442,Rural
+West Midlands,84,27355,Rural
+West Midlands,85,24067,Rural
+West Midlands,86,21130,Rural
+West Midlands,87,18396,Rural
+West Midlands,88,16498,Rural
+West Midlands,89,14333,Rural
+West Midlands,90,12311,Rural
+West Midlands,91,10094,Rural
+West Midlands,92,7912,Rural
+West Midlands,93,6213,Rural
+West Midlands,94,4681,Rural
+West Midlands,95,3491,Rural
+West Midlands,96,2602,Rural
+West Midlands,97,1799,Rural
+West Midlands,98,1350,Rural
+West Midlands,99,922,Rural
+West Midlands,100,1330,Rural
+Yorkshire and The Humber,0,55940,Rural
+Yorkshire and The Humber,1,58785,Rural
+Yorkshire and The Humber,2,60182,Rural
+Yorkshire and The Humber,3,60562,Rural
+Yorkshire and The Humber,4,63088,Rural
+Yorkshire and The Humber,5,63961,Rural
+Yorkshire and The Humber,6,63388,Rural
+Yorkshire and The Humber,7,64171,Rural
+Yorkshire and The Humber,8,66979,Rural
+Yorkshire and The Humber,9,67604,Rural
+Yorkshire and The Humber,10,67544,Rural
+Yorkshire and The Humber,11,67247,Rural
+Yorkshire and The Humber,12,67090,Rural
+Yorkshire and The Humber,13,66153,Rural
+Yorkshire and The Humber,14,64601,Rural
+Yorkshire and The Humber,15,63180,Rural
+Yorkshire and The Humber,16,63986,Rural
+Yorkshire and The Humber,17,63187,Rural
+Yorkshire and The Humber,18,63794,Rural
+Yorkshire and The Humber,19,68829,Rural
+Yorkshire and The Humber,20,68495,Rural
+Yorkshire and The Humber,21,71265,Rural
+Yorkshire and The Humber,22,70033,Rural
+Yorkshire and The Humber,23,69317,Rural
+Yorkshire and The Humber,24,68656,Rural
+Yorkshire and The Humber,25,67607,Rural
+Yorkshire and The Humber,26,68541,Rural
+Yorkshire and The Humber,27,69992,Rural
+Yorkshire and The Humber,28,71573,Rural
+Yorkshire and The Humber,29,73176,Rural
+Yorkshire and The Humber,30,74979,Rural
+Yorkshire and The Humber,31,72691,Rural
+Yorkshire and The Humber,32,72959,Rural
+Yorkshire and The Humber,33,74032,Rural
+Yorkshire and The Humber,34,72682,Rural
+Yorkshire and The Humber,35,71881,Rural
+Yorkshire and The Humber,36,71011,Rural
+Yorkshire and The Humber,37,69551,Rural
+Yorkshire and The Humber,38,68307,Rural
+Yorkshire and The Humber,39,69075,Rural
+Yorkshire and The Humber,40,69885,Rural
+Yorkshire and The Humber,41,68698,Rural
+Yorkshire and The Humber,42,64423,Rural
+Yorkshire and The Humber,43,60168,Rural
+Yorkshire and The Humber,44,60579,Rural
+Yorkshire and The Humber,45,62679,Rural
+Yorkshire and The Humber,46,63832,Rural
+Yorkshire and The Humber,47,66395,Rural
+Yorkshire and The Humber,48,70422,Rural
+Yorkshire and The Humber,49,74645,Rural
+Yorkshire and The Humber,50,76467,Rural
+Yorkshire and The Humber,51,75113,Rural
+Yorkshire and The Humber,52,76717,Rural
+Yorkshire and The Humber,53,76345,Rural
+Yorkshire and The Humber,54,75962,Rural
+Yorkshire and The Humber,55,76124,Rural
+Yorkshire and The Humber,56,76562,Rural
+Yorkshire and The Humber,57,75076,Rural
+Yorkshire and The Humber,58,74295,Rural
+Yorkshire and The Humber,59,71847,Rural
+Yorkshire and The Humber,60,69691,Rural
+Yorkshire and The Humber,61,66606,Rural
+Yorkshire and The Humber,62,65486,Rural
+Yorkshire and The Humber,63,64515,Rural
+Yorkshire and The Humber,64,61161,Rural
+Yorkshire and The Humber,65,58731,Rural
+Yorkshire and The Humber,66,56251,Rural
+Yorkshire and The Humber,67,57284,Rural
+Yorkshire and The Humber,68,54784,Rural
+Yorkshire and The Humber,69,53659,Rural
+Yorkshire and The Humber,70,54192,Rural
+Yorkshire and The Humber,71,54739,Rural
+Yorkshire and The Humber,72,55511,Rural
+Yorkshire and The Humber,73,60697,Rural
+Yorkshire and The Humber,74,59310,Rural
+Yorkshire and The Humber,75,43474,Rural
+Yorkshire and The Humber,76,46344,Rural
+Yorkshire and The Humber,77,41062,Rural
+Yorkshire and The Humber,78,38091,Rural
+Yorkshire and The Humber,79,32157,Rural
+Yorkshire and The Humber,80,30342,Rural
+Yorkshire and The Humber,81,30950,Rural
+Yorkshire and The Humber,82,29095,Rural
+Yorkshire and The Humber,83,27259,Rural
+Yorkshire and The Humber,84,24840,Rural
+Yorkshire and The Humber,85,21991,Rural
+Yorkshire and The Humber,86,19369,Rural
+Yorkshire and The Humber,87,17124,Rural
+Yorkshire and The Humber,88,14798,Rural
+Yorkshire and The Humber,89,12552,Rural
+Yorkshire and The Humber,90,10871,Rural
+Yorkshire and The Humber,91,8835,Rural
+Yorkshire and The Humber,92,6962,Rural
+Yorkshire and The Humber,93,5402,Rural
+Yorkshire and The Humber,94,4162,Rural
+Yorkshire and The Humber,95,3081,Rural
+Yorkshire and The Humber,96,2257,Rural
+Yorkshire and The Humber,97,1666,Rural
+Yorkshire and The Humber,98,1139,Rural
+Yorkshire and The Humber,99,786,Rural
+Yorkshire and The Humber,100,1220,Rural
