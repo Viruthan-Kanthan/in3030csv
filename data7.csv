@@ -1,0 +1,574 @@
+constituency,homeowners,renters,classification
+Aberavon,19170,10564,Rural
+Aberconwy,17911,7863,Rural
+Aldershot,27943,15629,Urban
+Aldridge-Brownhills,24206,8565,Urban
+Altrincham and Sale West,30477,10266,Urban
+Alyn and Deeside,26229,9969,Rural
+Amber Valley,28478,11896,Rural
+Arfon,15431,9126,Rural
+Arundel and South Downs,34210,10497,Rural
+Ashfield,30719,14554,Rural
+Ashford,34707,16585,Rural
+Ashton-under-Lyne,23677,17088,Urban
+Aylesbury,33953,15819,Rural
+Banbury,36543,18950,Rural
+Barking,20241,28366,Urban
+Barnsley Central,24559,15873,Urban
+Barnsley East,25424,15882,Urban
+Barrow and Furness,29563,10889,Rural
+Basildon and Billericay,25625,13853,Urban
+Basingstoke,30851,18592,Urban
+Bassetlaw,32306,15136,Rural
+Bath,21991,16995,Urban
+Batley and Spen,29076,15672,Urban
+Battersea,20922,31502,Urban
+Beaconsfield,30831,11570,Rural
+Beckenham,28282,9762,Urban
+Bedford,25222,19921,Urban
+Bermondsey and Old Southwark,16293,46703,Urban
+Berwick-upon-Tweed,22580,12527,Rural
+Bethnal Green and Bow,13713,40132,Urban
+Beverley and Holderness,33204,11433,Rural
+Bexhill and Battle,35103,11570,Rural
+Bexleyheath and Crayford,25867,10433,Urban
+Birkenhead,21177,20177,Urban
+Birmingham Edgbaston,20576,19814,Urban
+Birmingham Erdington,20746,21364,Urban
+Birmingham Hall Green,23029,16957,Urban
+Birmingham Hodge Hill,20963,18422,Urban
+Birmingham Ladywood,14212,37689,Urban
+Birmingham Northfield,25161,19374,Urban
+Birmingham Perry Barr,22586,16437,Urban
+Birmingham Selly Oak,23647,18366,Urban
+Birmingham Yardley,24163,18071,Urban
+Bishop Auckland,26226,15318,Rural
+Blackburn,23730,17402,Urban
+Blackley and Broughton,17063,29850,Urban
+Blackpool North and Cleveleys,24700,13917,Urban
+Blackpool South,20769,16089,Urban
+Blaenau Gwent,18258,12041,Rural
+Blaydon,27262,12651,Rural
+Blyth Valley,25076,13825,Urban
+Bognor Regis and Littlehampton,32838,15015,Urban
+Bolsover,29282,14730,Rural
+Bolton North East,24375,17168,Urban
+Bolton South East,23318,18304,Urban
+Bolton West,29850,12345,Urban
+Bootle,23858,20978,Urban
+Boston and Skegness,28535,18555,Rural
+Bosworth,34764,11744,Rural
+Bournemouth East,27002,19767,Urban
+Bournemouth West,25133,20134,Urban
+Bracknell,31061,14307,Urban
+Bradford East,23890,18723,Urban
+Bradford South,25663,16813,Urban
+Bradford West,20668,18558,Urban
+Braintree,29908,13182,Rural
+Brecon and Radnorshire,21875,9833,Rural
+Brent Central,18165,36329,Urban
+Brent North,22616,22303,Urban
+Brentford and Isleworth,26698,28943,Urban
+Brentwood and Ongar,29812,11090,Rural
+Bridgend,26027,10492,Urban
+Bridgwater and West Somerset,33783,17111,Rural
+Brigg and Goole,27101,11207,Rural
+Brighton Kemptown,21666,19015,Urban
+Brighton Pavilion,23418,20994,Urban
+Bristol East,27085,16242,Urban
+Bristol North West,25949,16753,Urban
+Bristol South,28356,20377,Urban
+Bristol West,23686,32719,Urban
+Broadland,32795,10953,Rural
+Bromley and Chislehurst,25508,13410,Urban
+Bromsgrove,32452,8796,Rural
+Broxbourne,29616,12411,Urban
+Broxtowe,30097,11679,Urban
+Buckingham,34241,11000,Rural
+Burnley,23927,15905,Rural
+Burton,30598,15805,Rural
+Bury North,25875,12282,Urban
+Bury South,28409,14011,Urban
+Bury St Edmunds,35288,16693,Rural
+Caerphilly,25312,11680,Rural
+Calder Valley,32039,14307,Rural
+Camberwell and Peckham,16338,36297,Urban
+Camborne and Redruth,27721,13301,Rural
+Cambridge,21857,26522,Urban
+Cannock Chase,29453,13893,Urban
+Canterbury,27977,16822,Rural
+Cardiff Central,16430,17465,Urban
+Cardiff North,27497,9531,Urban
+Cardiff South and Penarth,26729,21714,Urban
+Cardiff West,24707,15642,Urban
+Carlisle,27109,13734,Rural
+Carmarthen East and Dinefwr,23935,7999,Rural
+Carmarthen West and South Pembrokeshire,23527,11303,Rural
+Carshalton and Wallington,26232,14250,Urban
+Castle Point,30072,7291,Urban
+Central Devon,30129,11558,Rural
+Central Suffolk and North Ipswich,32471,10893,Rural
+Ceredigion,21272,9610,Rural
+Charnwood,34529,8651,Rural
+Chatham and Aylesford,27048,14021,Urban
+Cheadle,32303,6809,Urban
+Chelmsford,31752,15678,Urban
+Chelsea and Fulham,17812,28588,Urban
+Cheltenham,30066,17673,Urban
+Chesham and Amersham,29155,9615,Rural
+Chesterfield,27280,16055,Urban
+Chichester,33382,16538,Rural
+Chingford and Woodford Green,23978,12983,Urban
+Chippenham,31192,12649,Rural
+Chipping Barnet,29357,16655,Urban
+Chorley,32714,12784,Rural
+Christchurch,31139,8779,Rural
+Cities of London and Westminster,14750,35637,Urban
+City of Chester,27614,16189,Rural
+City of Durham,25564,15093,Rural
+Clacton,30268,12165,Rural
+Cleethorpes,30123,11857,Rural
+Clwyd South,19887,10804,Rural
+Clwyd West,23076,10104,Rural
+Colchester,29235,21977,Urban
+Colne Valley,34723,13636,Rural
+Congleton,35660,10338,Rural
+Copeland,25101,9996,Rural
+Corby,34660,17726,Rural
+Coventry North East,25898,21751,Urban
+Coventry North West,28319,15925,Urban
+Coventry South,23751,18285,Urban
+Crawley,25923,19447,Urban
+Crewe and Nantwich,33113,16353,Rural
+Croydon Central,25760,24393,Urban
+Croydon North,27247,28923,Urban
+Croydon South,32844,13496,Urban
+Cynon Valley,20598,10402,Rural
+Dagenham and Rainham,23775,17525,Urban
+Darlington,25535,16732,Urban
+Dartford,33047,15008,Urban
+Daventry,32610,11875,Rural
+Delyn,22094,8584,Rural
+Denton and Reddish,25205,13707,Urban
+Derby North,25576,17613,Urban
+Derby South,23797,21173,Urban
+Derbyshire Dales,26708,9577,Rural
+Devizes,25438,16301,Rural
+Dewsbury,30522,13639,Rural
+Don Valley,30020,13254,Rural
+Doncaster Central,27494,19346,Urban
+Doncaster North,26933,16036,Rural
+Dover,29274,15002,Rural
+Dudley North,21574,13852,Urban
+Dudley South,23108,11585,Urban
+Dulwich and West Norwood,20210,26562,Urban
+Dwyfor Meirionnydd,18147,8296,Rural
+Ealing Central and Acton,23607,29651,Urban
+Ealing North,23641,22087,Urban
+Ealing Southall,17224,17136,Urban
+Easington,22092,14935,Rural
+East Devon,35875,13002,Rural
+East Ham,18578,32465,Urban
+East Hampshire,31434,11780,Rural
+East Surrey,34877,11761,Rural
+East Worthing and Shoreham,30940,11563,Urban
+East Yorkshire,33322,14073,Rural
+Eastbourne,30524,18533,Urban
+Eastleigh,34219,13974,Urban
+Eddisbury,30405,10974,Rural
+Edmonton,18291,22630,Urban
+Ellesmere Port and Neston,28141,12215,Rural
+Elmet and Rothwell,34485,10210,Rural
+Eltham,21445,16478,Urban
+Enfield North,22018,18490,Urban
+Enfield Southgate,24357,14841,Urban
+Epping Forest,28430,12818,Rural
+Epsom and Ewell,33459,9987,Urban
+Erewash,29171,13408,Urban
+Erith and Thamesmead,20706,22327,Urban
+Esher and Walton,33595,12362,Urban
+Exeter,25815,19917,Urban
+Fareham,33494,9042,Urban
+Faversham and Mid Kent,29706,11499,Rural
+Feltham and Heston,22571,24461,Urban
+Filton and Bradley Stoke,29118,13344,Urban
+Finchley and Golders Green,25165,24377,Urban
+Folkestone and Hythe,33979,16537,Rural
+Forest of Dean,28873,10210,Rural
+Fylde,29525,10978,Rural
+Gainsborough,30985,12497,Rural
+Garston and Halewood,27292,16794,Urban
+Gateshead,20041,21448,Urban
+Gedling,30399,11375,Urban
+Gillingham and Rainham,27477,13263,Urban
+Gloucester,32551,18779,Urban
+Gosport,28321,13601,Urban
+Gower,26075,8279,Rural
+Grantham and Stamford,33213,16185,Rural
+Gravesham,26403,15220,Urban
+Great Grimsby,22210,15883,Urban
+Great Yarmouth,27649,16789,Rural
+Greenwich and Woolwich,20559,35765,Urban
+Guildford,28039,15075,Rural
+Hackney North and Stoke Newington,15581,36955,Urban
+Hackney South and Shoreditch,13149,40136,Urban
+Halesowen and Rowley Regis,25776,12892,Urban
+Halifax,26765,17300,Urban
+Haltemprice and Howden,31680,7632,Rural
+Halton,26194,16595,Urban
+Hammersmith,15896,36288,Urban
+Hampstead and Kilburn,20760,36472,Urban
+Harborough,33675,10570,Rural
+Harlow,24412,17976,Urban
+Harrogate and Knaresborough,32770,13757,Rural
+Harrow East,22592,13979,Urban
+Harrow West,22551,18298,Urban
+Hartlepool,24073,16788,Rural
+Harwich and North Essex,31042,9854,Rural
+Hastings and Rye,29335,19405,Rural
+Havant,27261,13435,Urban
+Hayes and Harlington,20055,21249,Urban
+Hazel Grove,27040,7782,Urban
+Hemel Hempstead,26340,17561,Urban
+Hemsworth,27890,15304,Rural
+Hendon,25515,27709,Urban
+Henley,31711,11155,Rural
+Hereford and South Herefordshire,28009,15288,Rural
+Hertford and Stortford,33295,14591,Rural
+Hertsmere,27887,14771,Urban
+Hexham,24556,9677,Rural
+Heywood and Middleton,29263,17045,Urban
+High Peak,29213,11502,Rural
+Hitchin and Harpenden,30221,11954,Rural
+Holborn and St Pancras,14520,39761,Urban
+Hornchurch and Upminster,31570,12326,Urban
+Hornsey and Wood Green,24209,28230,Urban
+Horsham,35806,13194,Rural
+Houghton and Sunderland South,24659,15649,Urban
+Hove,25673,20339,Urban
+Huddersfield,22963,17281,Urban
+Huntingdon,35671,16521,Rural
+Hyndburn,25198,14515,Urban
+Ilford North,25236,14275,Urban
+Ilford South,22189,22298,Urban
+Ipswich,26633,22587,Urban
+Isle of Wight,44329,20437,Rural
+Islington North,14753,33266,Urban
+Islington South and Finsbury,12568,35600,Urban
+Islwyn,22251,9976,Rural
+Jarrow,22849,14962,Urban
+Keighley,29288,12513,Rural
+Kenilworth and Southam,29582,8852,Rural
+Kensington,15457,33800,Urban
+Kettering,29410,14766,Rural
+Kingston and Surbiton,29771,19109,Urban
+Kingston upon Hull East,21254,18059,Urban
+Kingston upon Hull North,20272,21055,Urban
+Kingston upon Hull West and Hessle,19673,21549,Urban
+Kingswood,27892,9884,Urban
+Knowsley,27722,19703,Urban
+Lancaster and Fleetwood,23418,13045,Rural
+Leeds Central,18581,42530,Urban
+Leeds East,22294,20022,Urban
+Leeds North East,25889,14122,Urban
+Leeds North West,21599,14367,Urban
+Leeds West,21326,22639,Urban
+Leicester East,22594,17948,Urban
+Leicester South,19650,24549,Urban
+Leicester West,17848,24434,Urban
+Leigh,32067,15763,Urban
+Lewes,29186,10913,Rural
+Lewisham Deptford,19753,32905,Urban
+Lewisham East,21313,22048,Urban
+Lewisham West and Penge,23283,24451,Urban
+Leyton and Wanstead,19410,20654,Urban
+Lichfield,31966,10827,Rural
+Lincoln,25935,22133,Urban
+Liverpool Riverside,16739,35911,Urban
+Liverpool Walton,18462,22168,Urban
+Liverpool Wavertree,20277,18441,Urban
+Liverpool West Derby,21656,18382,Urban
+Llanelli,24291,11432,Rural
+Loughborough,28120,14736,Rural
+Louth and Horncastle,32641,13220,Rural
+Ludlow,26713,11289,Rural
+Luton North,23532,13509,Urban
+Luton South,21871,22888,Urban
+Macclesfield,31520,11494,Rural
+Maidenhead,30603,12335,Rural
+Maidstone and The Weald,30821,15393,Rural
+Makerfield,30854,11424,Urban
+Maldon,30811,8589,Rural
+Manchester Central,18022,45687,Urban
+Manchester Gorton,15993,25030,Urban
+Manchester Withington,20261,20722,Urban
+Mansfield,30970,16930,Urban
+Meon Valley,31416,10116,Rural
+Meriden,32704,14793,Rural
+Merthyr Tydfil and Rhymney,20314,12416,Rural
+Mid Bedfordshire,37510,11850,Rural
+Mid Derbyshire,29237,7634,Rural
+Mid Dorset and North Poole,27471,8452,Rural
+Mid Norfolk,34047,13452,Rural
+Mid Sussex,35342,13122,Rural
+Mid Worcestershire,32611,13680,Rural
+Middlesbrough,20208,19711,Urban
+Middlesbrough South and East Cleveland,28440,14105,Rural
+Milton Keynes North,33299,22295,Rural
+Milton Keynes South,35551,21808,Urban
+Mitcham and Morden,21776,19505,Urban
+Mole Valley,30538,10435,Rural
+Monmouth,27334,10463,Rural
+Montgomeryshire,18961,9408,Rural
+Morecambe and Lunesdale,27945,11911,Rural
+Morley and Outwood,32909,12674,Urban
+Neath,22440,10086,Rural
+New Forest East,29049,9838,Rural
+New Forest West,28975,9654,Rural
+Newark,32246,12736,Rural
+Newbury,31135,15985,Rural
+Newcastle upon Tyne Central,16708,23150,Urban
+Newcastle upon Tyne East,16516,23178,Urban
+Newcastle upon Tyne North,27835,15126,Urban
+Newcastle-under-Lyme,24923,13231,Urban
+Newport East,22393,12199,Rural
+Newport West,25132,13661,Rural
+Newton Abbot,29891,11627,Rural
+Normanton Pontefract and Castleford,32575,19074,Urban
+North Cornwall,26969,13529,Rural
+North Devon,29557,13624,Rural
+North Dorset,30296,11812,Rural
+North Durham,25534,14900,Rural
+North East Bedfordshire,37990,12889,Rural
+North East Cambridgeshire,35094,16582,Rural
+North East Derbyshire,29747,11989,Rural
+North East Hampshire,33011,9995,Rural
+North East Hertfordshire,29318,13886,Rural
+North East Somerset,30532,9678,Rural
+North Herefordshire,27870,11626,Rural
+North Norfolk,28258,12111,Rural
+North Shropshire,32830,13817,Rural
+North Somerset,34925,9605,Rural
+North Swindon,34143,15643,Urban
+North Thanet,29158,14139,Rural
+North Tyneside,29930,20657,Urban
+North Warwickshire,27914,11502,Rural
+North West Cambridgeshire,39337,19437,Rural
+North West Durham,28644,14138,Rural
+North West Hampshire,33073,14492,Rural
+North West Leicestershire,32768,12163,Rural
+North West Norfolk,28560,15195,Rural
+North Wiltshire,29833,10947,Rural
+Northampton North,23397,13920,Urban
+Northampton South,22952,20306,Urban
+Norwich North,26305,14841,Urban
+Norwich South,20706,26829,Urban
+Nottingham East,17167,24177,Urban
+Nottingham North,19859,21156,Urban
+Nottingham South,19900,22147,Urban
+Nuneaton,28440,13403,Urban
+Ogmore,23129,9791,Rural
+Old Bexley and Sidcup,27501,7968,Urban
+Oldham East and Saddleworth,26441,15721,Urban
+Oldham West and Royton,24125,17132,Urban
+Orpington,29228,8046,Urban
+Oxford East,19655,23907,Urban
+Oxford West and Abingdon,28911,15117,Rural
+Pendle,24803,13232,Rural
+Penistone and Stocksbridge,29792,9451,Rural
+Penrith and The Border,27452,10551,Rural
+Peterborough,27126,23197,Rural
+Plymouth Moor View,24741,15976,Urban
+Plymouth Sutton and Devonport,23488,25963,Urban
+Pontypridd,24950,9688,Rural
+Poole,29873,14424,Urban
+Poplar and Limehouse,17313,49106,Urban
+Portsmouth North,26312,14350,Urban
+Portsmouth South,19483,25824,Urban
+Preseli Pembrokeshire,23365,11242,Rural
+Preston,18229,20572,Urban
+Pudsey,30457,11120,Urban
+Putney,19292,22223,Urban
+Rayleigh and Wickford,34003,7335,Rural
+Reading East,25920,20190,Urban
+Reading West,27283,17512,Urban
+Redcar,25016,14264,Urban
+Redditch,25824,13022,Rural
+Reigate,30443,12080,Rural
+Rhondda,20196,10241,Rural
+Ribble Valley,34945,9913,Rural
+Richmond Park,29813,19463,Urban
+Richmond Yorks,31215,14810,Rural
+Rochdale,25457,18273,Urban
+Rochester and Strood,31863,14870,Rural
+Rochford and Southend East,25904,20217,Urban
+Romford,28362,12772,Urban
+Romsey and Southampton North,25504,11431,Rural
+Rossendale and Darwen,29759,13428,Rural
+Rother Valley,30752,11433,Rural
+Rotherham,20916,17287,Urban
+Rugby,30775,13975,Rural
+Ruislip Northwood and Pinner,27127,11863,Urban
+Runnymede and Weybridge,30279,14127,Urban
+Rushcliffe,32743,9941,Rural
+Rutland and Melton,33424,11989,Rural
+Saffron Walden,34609,13081,Rural
+Salford and Eccles,24127,33544,Urban
+Salisbury,28770,14304,Rural
+Scarborough and Whitby,28981,16608,Rural
+Scunthorpe,23861,14365,Rural
+Sedgefield,24804,13951,Rural
+Sefton Central,30236,6119,Urban
+Selby and Ainsty,33609,11329,Rural
+Sevenoaks,28998,10574,Rural
+Sheffield Brightside and Hillsborough,21490,22573,Urban
+Sheffield Central,17794,28372,Urban
+Sheffield Hallam,28713,7595,Rural
+Sheffield Heeley,24219,17559,Urban
+Sheffield South East,25746,13786,Urban
+Sherwood,32241,12553,Rural
+Shipley,31107,12398,Urban
+Shrewsbury and Atcham,32419,15174,Rural
+Sittingbourne and Sheppey,32761,15324,Rural
+Skipton and Ripon,32382,12832,Rural
+Sleaford and North Hykeham,39210,13130,Rural
+Slough,24830,25111,Urban
+Solihull,32645,9236,Urban
+Somerton and Frome,34752,13693,Rural
+South Basildon and East Thurrock,26818,14446,Rural
+South Cambridgeshire,35679,14334,Rural
+South Derbyshire,34077,11114,Rural
+South Dorset,28179,13994,Rural
+South East Cambridgeshire,34772,15723,Rural
+South East Cornwall,29137,11908,Rural
+South Holland and The Deepings,33473,13398,Rural
+South Leicestershire,35587,10160,Rural
+South Norfolk,35922,12591,Rural
+South Northamptonshire,38554,12512,Rural
+South Ribble,32795,9581,Rural
+South Shields,20796,17090,Urban
+South Staffordshire,29844,9796,Rural
+South Suffolk,30257,11885,Rural
+South Swindon,28103,17821,Rural
+South Thanet,27797,16226,Rural
+South West Bedfordshire,33303,13916,Rural
+South West Devon,31170,8868,Rural
+South West Hertfordshire,31950,12095,Rural
+South West Norfolk,31525,15457,Rural
+South West Surrey,31992,12178,Rural
+South West Wiltshire,31081,14451,Rural
+Southampton Itchen,24338,22310,Urban
+Southampton Test,20520,25009,Urban
+Southend West,27479,11794,Urban
+Southport,28743,13095,Urban
+Spelthorne,29000,12783,Urban
+St Albans,28686,13062,Urban
+St Austell and Newquay,31543,15371,Rural
+St Helens North,29004,14872,Urban
+St Helens South and Whiston,29770,16952,Urban
+St Ives,25698,13345,Rural
+Stafford,29775,13576,Rural
+Staffordshire Moorlands,26673,7143,Rural
+Stalybridge and Hyde,26279,15750,Urban
+Stevenage,24679,16326,Urban
+Stockport,23922,15895,Urban
+Stockton North,24314,15922,Rural
+Stockton South,31483,11959,Urban
+Stoke-on-Trent Central,18612,18909,Urban
+Stoke-on-Trent North,25467,17072,Urban
+Stoke-on-Trent South,25367,13463,Urban
+Stone,29495,8504,Rural
+Stourbridge,27530,11388,Urban
+Stratford-on-Avon,31253,12066,Rural
+Streatham,20043,28695,Urban
+Stretford and Urmston,27037,14807,Urban
+Stroud,34444,12213,Rural
+Suffolk Coastal,33021,14314,Rural
+Sunderland Central,25275,18193,Urban
+Surrey Heath,33528,11160,Urban
+Sutton Coldfield,31577,8720,Urban
+Sutton and Cheam,27705,14102,Urban
+Swansea East,21130,14753,Urban
+Swansea West,18496,15914,Urban
+Tamworth,28215,12311,Rural
+Tatton,28639,9865,Rural
+Taunton Deane,35512,17941,Rural
+Telford,24250,17932,Urban
+Tewkesbury,35765,12394,Rural
+The Cotswolds,31573,14651,Rural
+The Wrekin,27188,14305,Rural
+Thirsk and Malton,31569,14345,Rural
+Thornbury and Yate,29713,8098,Rural
+Thurrock,29213,19765,Urban
+Tiverton and Honiton,32696,13912,Rural
+Tonbridge and Malling,30967,12442,Rural
+Tooting,20620,22650,Urban
+Torbay,29260,17551,Urban
+Torfaen,22883,12956,Rural
+Torridge and West Devon,32527,12928,Rural
+Totnes,28056,11648,Rural
+Tottenham,16639,35621,Urban
+Truro and Falmouth,28270,14462,Rural
+Tunbridge Wells,29301,15070,Rural
+Twickenham,31733,16306,Urban
+Tynemouth,31845,13733,Urban
+Uxbridge and South Ruislip,24576,16293,Urban
+Vale of Clwyd,20964,11147,Rural
+Vale of Glamorgan,31920,12711,Rural
+Vauxhall,14957,38810,Urban
+Wakefield,25552,18026,Urban
+Wallasey,24896,14760,Urban
+Walsall North,21306,18660,Urban
+Walsall South,21633,17685,Urban
+Walthamstow,21447,23764,Urban
+Wansbeck,24379,14184,Rural
+Wantage,37674,16341,Rural
+Warley,20054,17216,Urban
+Warrington North,27570,14306,Urban
+Warrington South,35301,13310,Urban
+Warwick and Leamington,28121,17149,Urban
+Washington and Sunderland West,21542,16808,Urban
+Watford,30022,19951,Urban
+Waveney,30904,15893,Rural
+Wealden,34900,10549,Rural
+Weaver Vale,28304,12066,Rural
+Wellingborough,31641,16831,Rural
+Wells,33671,13511,Rural
+Welwyn Hatfield,24984,18939,Urban
+Wentworth and Dearne,27387,16388,Urban
+West Bromwich East,20377,16342,Urban
+West Bromwich West,20455,18267,Urban
+West Dorset,32124,14340,Rural
+West Ham,19737,44403,Urban
+West Lancashire,28739,12410,Rural
+West Suffolk,31873,20479,Rural
+West Worcestershire,31412,11972,Rural
+Westminster North,13712,35341,Urban
+Westmorland and Lonsdale,27497,10907,Rural
+Weston-Super-Mare,33536,16529,Rural
+Wigan,28745,17014,Urban
+Wimbledon,24561,15845,Urban
+Winchester,27932,13222,Rural
+Windsor,29773,13904,Rural
+Wirral South,24536,7111,Urban
+Wirral West,23393,7109,Urban
+Witham,29229,10828,Rural
+Witney,33040,14933,Rural
+Woking,29572,14275,Urban
+Wokingham,35446,11412,Rural
+Wolverhampton North East,20040,17188,Urban
+Wolverhampton South East,19931,17614,Urban
+Wolverhampton South West,21718,13957,Urban
+Worcester,27934,16763,Urban
+Workington,24648,11388,Rural
+Worsley and Eccles South,26737,18892,Urban
+Worthing West,33054,14058,Urban
+Wrexham,18753,11724,Rural
+Wycombe,28870,15160,Rural
+Wyre Forest,31622,13650,Rural
+Wyre and Preston North,33745,7740,Rural
+Wythenshawe and Sale East,23644,23128,Urban
+Yeovil,33579,16358,Rural
+Ynys Mon,21107,9619,Rural
+York Central,24242,21146,Urban
+York Outer,32111,7862,Rural
