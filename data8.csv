@@ -1,0 +1,21 @@
+region,tenureCategory,population,classification
+East Midlands,Homeowner,1351392,Rural
+East Midlands,Renter,685940,Rural
+East of England,Homeowner,1740802,Rural
+East of England,Renter,887980,Rural
+London,Homeowner,1601042,Urban
+London,Renter,1822847,Urban
+North East,Homeowner,713780,Rural
+North East,Renter,461899,Rural
+North West,Homeowner,1987096,Rural
+North West,Renter,1166307,Rural
+South East,Homeowner,2554864,Rural
+South East,Renter,1253102,Rural
+South West,Homeowner,1639672,Rural
+South West,Renter,809207,Rural
+Wales,Homeowner,1788398,Rural
+Wales,Renter,905836,Rural
+West Midlands,Homeowner,1545293,Rural
+West Midlands,Renter,884201,Rural
+Yorkshire and The Humber,Homeowner,1471075,Rural
+Yorkshire and The Humber,Renter,859583,Rural
